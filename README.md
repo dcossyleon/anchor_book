@@ -1,1 +1,6 @@
-This is a minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). Please see the page "Get Started" at https://bookdown.org/ for how to compile this example.
+# Anchor book
+
+This minimal book is a demo of how anchor links can be added to section headings of your bookdown site. 
+
+The companion tutorial for how to add this to your own book is found here: https://desiree.rbind.io/post/2019/bookdown-anchor-links/
+
